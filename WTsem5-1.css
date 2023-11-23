@@ -1,0 +1,210 @@
+.rect1
+{
+    height: 8%;
+    width: 77%;
+    background-color: rgb(113, 172, 192);
+    position: absolute;
+}
+.image1
+{
+    position:relative;
+    left: 30px;
+    top: 15px;
+}
+.heading
+{
+    position: relative;
+    top: 10px;
+    left: 550px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.circle1
+{
+    position: relative;
+    height: 130px;
+    width: 130px;
+    border-radius: 50%;
+    border: 3px solid;
+    border-color: black;
+    left: 250px;
+    top: 15px;
+}
+.circle2
+{
+    position: relative;
+    height: 130px;
+    width: 130px;
+    border-radius: 50%;
+    border: 3px solid;
+    border-color: black;
+    bottom: 120px;
+    left: 550px;
+}
+.circle3
+{
+    position: relative;
+    height: 130px;
+    width: 130px;
+    border-radius: 50%;
+    border: 3px solid;
+    border-color: black;
+    bottom: 255px;
+    left: 850px;
+}
+.image2
+{
+    position:relative;
+    bottom: 370px;
+    left: 275px;
+}
+.image3
+{
+    position: relative;
+    bottom: 470px;
+    left: 577px;
+}
+.image4
+{
+    position: relative;
+    bottom: 555px;
+    left: 883px;
+}
+.stationary
+{
+    position: relative;
+    bottom: 550px;
+    left: 275px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.notes
+{
+    position: relative;
+    bottom: 589px;
+    left: 597px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.electronics
+{
+    position: relative;
+    bottom: 630px;
+    left: 880px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.rect2
+{
+    height: 190px;
+    width: 370px;
+    background-color: rgb(190, 190, 190);
+    position: relative;
+    bottom: 610px;
+}
+.rect3
+{
+    height: 190px;
+    width: 370px;
+    background-color: rgb(190, 190, 190);
+    position: relative;
+    bottom: 799px;
+    left: 390px;
+}
+.rect4
+{
+    height: 190px;
+    width: 370px;
+    background-color: rgb(190, 190, 190);
+    position: relative;
+    bottom: 990px;
+    left: 782px;
+}
+.portfoliobag
+{
+    position: relative;
+    bottom: 1177px;
+    font-size: 21px;
+    left: 154px;
+    font-family:sans-serif;
+}
+.triangularscale
+{
+    position: relative;
+    bottom: 1273px;
+    font-size: 21px;
+    left: 543px;
+    font-family:sans-serif;
+}
+.draftingboard
+{
+    position: relative;
+    bottom: 1370px;
+    font-size: 21px;
+    left: 944px;
+    font-family:sans-serif;
+}
+.image5
+{
+    position: relative;
+    bottom: 1447px;
+    left: 26px;
+}
+.image6
+{
+    position: relative;
+    bottom: 1569px;
+    left: 422px;
+}
+.image7
+{
+    position: relative;
+    bottom: 1680px;
+    left: 816px;
+}
+.buttons
+{
+    position: relative;
+    bottom: 1705px;
+    left: 155px;
+}
+.button1
+{
+    position: relative;
+    bottom: 1729px;
+    left: 546px;
+}
+.button2
+{
+    position: relative;
+    bottom: 1755px;
+    left: 946px;
+}
+.loc
+{
+    position: relative;
+    left:  970px;
+    bottom: 2225px;
+}
+.Search [type=text]
+{
+   padding: 10px;
+  font-size: 17px;
+  float: left;
+  width: 90%;
+  background: #f1f1f1;
+}
+.Search
+{
+float: left;
+  width: 20%;
+  padding: 10px;
+  color: white;
+  font-size: 17px;
+  border-left: none;
+  cursor: pointer;
+  bottom: 2269px;
+  left: 100px;
+  position: relative;
+}
+
+
+
+
